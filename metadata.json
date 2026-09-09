@@ -1,0 +1,10 @@
+{
+  "name": "VORTEX AI - Second Brain",
+  "description": "Adaptive Nigerian student AI assistant application spanning Primary to 600L (MBBS & 6-year courses) with exam past question photo solving, voice dictation recording, and RAG document grounding.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

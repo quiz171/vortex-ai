@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "usr_g_4brlircpq_1788951053258",
+      "fullName": "Nelson Wazini",
+      "email": "nelsonwazini@gmail.com",
+      "passwordHash": "$2b$10$dmSmbeFo6wRT.5S0CP1BBuBIIxj9sf7QUlTXX4I7MawtqSbcz3OsG",
+      "educationLevel": "University",
+      "classYear": "100L",
+      "course": "General Studies",
+      "createdAt": "2026-09-09T10:50:53.258Z"
+    }
+  ],
+  "chats": {},
+  "materials": {}
+}
